@@ -4,12 +4,6 @@ A linux version of the Desktop Goose.
 
 You have been hacked by an evil goose and you must escape. But be warned that the goose won't let you use usual actions to stop the virus. Don't even try to run htop or top.
 
-## Installation
-
-Simply run the command bellow. It will clone the repository in your current folder and start the script.
-
-``curl https://raw.githubusercontent.com/AnonymusRaccoon/AnonymousGoose/master/install.sh | sh``
-
 Once downloaded, you can simply use the ``./run.sh`` to start it again. 
 
 ## Q&A
